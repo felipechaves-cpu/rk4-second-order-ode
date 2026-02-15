@@ -1,13 +1,9 @@
 # Solução Numérica para EDOs de Segunda Ordem usando RK4
 # Numerical Solver for Second-Order Ordinary Differential Equations using RK4
 ---
-
-
----
-
 ## <img src="https://flagcdn.com/w20/br.png" width="20"/> Versão em Português
 
-### 📌 Visão Geral
+### Visão Geral
 
 Este projeto implementa o método de Runge-Kutta de quarta ordem (RK4)
 para resolver numericamente equações diferenciais ordinárias (EDOs) de segunda ordem da forma:
